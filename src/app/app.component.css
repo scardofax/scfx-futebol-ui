@@ -1,0 +1,36 @@
+.iconPG{
+    color: green;
+    font-size: 25px;
+}
+
+.iconNPG{
+    color: red;
+    font-size: 25px;
+}
+
+.icon-money{
+    color: whitesmoke;
+    font-size: 25px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.saldo{
+    width: 300px;
+    height: 150px;
+    background: rgb(23, 63, 97);
+}
+
+.saldo-titulo{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;    
+}
+
+.saldo-valor{
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 10px;
+}

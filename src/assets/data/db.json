@@ -1,0 +1,13 @@
+{
+    "mensalistas": [
+        {"id": 1, "name": "Juliano", "janeiro": false, "fevereiro": false},
+        {"id": 2, "name": "Diego", "janeiro": true, "fevereiro": true},
+        {"id": 3, "name": "Helton", "janeiro": false, "fevereiro": true},
+        {"id": 4, "name": "Ricardo", "janeiro": true, "fevereiro": true}        
+    ],
+    "avulsos": [
+        {"id": 1, "name": "Leandro", "03/01/2022": false, "10/01/2022": true},
+        {"id": 2, "name": "Leandro Neudi", "03/01/2022": true, "10/01/2022": true},
+        {"id": 3, "name": "Diego", "03/01/2022": true, "10/01/2022": true}            
+    ]
+}
